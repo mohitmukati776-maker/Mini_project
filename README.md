@@ -118,14 +118,15 @@ Dashboard Features:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_final.png.jpeg)
+- Flipkart_Dashboard.pbix → Power BI dashboard
 
 ## Files Included
 
 - mini_project_pycode.py → Python analysis and preprocessing code
 - cleaned_flipkart_dataset.csv→ Cleaned dataset
-- Flipkart_Dashboard.pbix.zip → Power BI dashboard
+- Flipkart_Dashboard.pbix→ Power BI dashboard
 - Namanireport.pdf → Project report
+- screenshots -> SQL queries with output
 
 ## Business Questions Solved Using SQL Queries
 
